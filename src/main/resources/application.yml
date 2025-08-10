@@ -1,0 +1,21 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+spring:
+  application:
+    name: GPA Calculator API
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  main:
+    banner-mode: "console"
+  jackson:
+    default-property-inclusion: non_null
+    serialization:
+      indent_output: true
+
+# Swagger UI path ayarı (opsiyonel, default: /swagger-ui.html)
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html 
