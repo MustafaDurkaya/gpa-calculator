@@ -98,13 +98,3 @@ Bu proje, Spring Boot ile yazılmış bir REST API örneğidir. Öğrenci, ders 
   ```
 
 ---
-
-## 📚 Daha Fazla Bilgi
-- [Spring Boot Resmi Dokümantasyon](https://spring.io/projects/spring-boot)
-- [Spring Validation](https://docs.spring.io/spring-framework/docs/current/reference/html/validation.html)
-- [Springdoc OpenAPI](https://springdoc.org/)
-- [Java Temelleri](https://www.w3schools.com/java/)
-
----
-
-Her kavramın kodda örneğini bulmak için dosya isimlerinde ve sınıf başlarında açıklayıcı yorumlar da ekleyebilirsin. Stajyerler için kodu okurken bu rehber çok yardımcı olacaktır! 
