@@ -1,6 +1,6 @@
-# 🎓 GPA Calculator API
+# GPA Calculator API
 
-Bu proje, Spring Boot ile yazılmış bir REST API örneğidir. Öğrenci, ders ve not işlemlerini yönetir. Kodun içinde geçen önemli kavramlar ve açıklamaları aşağıda bulabilirsin.
+Bu proje, Spring Boot ile yazılmış bir REST API örneğidir.
 
 ---
 
